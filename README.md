@@ -40,3 +40,10 @@ The analysis centers on comparing Alabama (AL) and the U.S. Virgin Islands (VI) 
 │       ├── Query 4.png
 │       └── Query 5.png
 └── README.md
+
+
+To run the queries:
+1. Install DuckDB
+2. Open analysis.sql in VS Code
+3. Connect to health.db
+4. Run queries individually
